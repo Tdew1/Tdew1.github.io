@@ -1,3 +1,4 @@
 # Tdew1.github.io
 Tyson Dew
-Tdew1@my.waketech.edu
+#how i cloned my repository
+I created a repository on GitHub and cloned it from my desktop and in to file explorer
